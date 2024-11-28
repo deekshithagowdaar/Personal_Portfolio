@@ -1,6 +1,6 @@
 # Personal_Portfolio
 
-###Introduction
+# Introduction
 A personal portfolio website is a digital platform that serves as a professional showcase of an individual's skills, achievements, work, and personal brand. It is commonly used by professionals like developers, designers, writers, photographers, and other creative or technical experts to present their expertise and stand out in their respective fields.
 
 Objectives
