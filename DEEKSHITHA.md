@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/python-green?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/java-orange?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-red?style=flat&logo=java&logoColor=white" />
 </p>
 
 ---
