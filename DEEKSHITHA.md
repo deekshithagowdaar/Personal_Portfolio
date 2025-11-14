@@ -19,7 +19,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenraj2206&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deekshithagowdaar&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ### 📈 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenraj2206&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithagowdaar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ### 🌱 Contributions Graph
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenraj2206&theme=radical" alt="Heatmap Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshithagowdaar&theme=radical" alt="Heatmap Productive Time" />
 </p>
 
 ---
